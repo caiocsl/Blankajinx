@@ -23,13 +23,7 @@
         <img src="https://badges.crowdin.net/Blankajinx/localized.svg"
             alt="">
     </a>
-    <a href="https://discord.com/invite/VkQYXAZ">
-        <img src="https://img.shields.io/discord/410208534861447168?color=5865F2&label=Blankajinx&logo=discord&logoColor=white"
-            alt="Discord">
-    </a>
-    <br>
-    <br>
-    <img src="https://raw.githubusercontent.com/Blankajinx/Blankajinx-Website/master/public/assets/images/shell.png">
+
 </p>
 
 ## Compatibility
